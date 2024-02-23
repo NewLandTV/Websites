@@ -1,0 +1,43 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 75px;
+    padding: 1rem;
+    color: white;
+    background: green;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#title {
+    margin-top: 10px;
+    color: #0ac892;
+}
+
+p {
+    margin: 0;
+}
+
+main {
+    text-align: center;
+    padding: 1rem;
+}
+
+body {
+    background: #EEE;
+    height: auto;
+}
+
+#main {
+    margin-bottom: 30px;
+}
+
+#container {
+    padding-top: 90px;
+    background: #dfdfdf;
+    box-sizing: border-box;
+}
